@@ -23,3 +23,4 @@
  | Practice Medium | completion 1% | skills |
  | - | - | - |
  | There is no Spoon | :white_check_mark: 100% | Lists |
+ | Mars Lander 2 | :x: 0% | Distances, Trigonometry |
