@@ -19,3 +19,7 @@
  | The Descent | :white_check_mark: 100% | Loops |
  | Temperatures | :white_check_mark: 100% | Arrays, Loops, Conditions |
  | Mars Lander 1 | :white_check_mark: 100% | Conditions |
+ #
+ | Practice Medium | completion 1% | skills |
+ | - | - | - |
+ | There is no Spoon | :white_check_mark: 100% | Lists |
